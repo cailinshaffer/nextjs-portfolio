@@ -6,9 +6,9 @@ export default function Navbar() {
     return (
         <div className='navBar'>
         <nav>
-            {/* <div className="logo">
-                <h1>WebDev List</h1>
-            </div> */}
+            <div className="logo">
+                <h1>Cailin Shaffer</h1>
+            </div>
 
             <Link href="/">Home</Link>
             <Link href="/about">About Me</Link>

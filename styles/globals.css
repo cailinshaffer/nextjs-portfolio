@@ -30,21 +30,14 @@ nav .logo {
   margin-right: auto;
 }
 
-
-
-
-/* Link {
-  padding: 5px;
-  margin: 10px;
-  color: white;
-  text-decoration: none;
-}  */
-
  .card {
   align-items: center;
   margin: 50px;
 } 
 
+h2 {
+  color: white;
+}
 
 
 /* :root {

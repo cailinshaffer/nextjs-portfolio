@@ -1,8 +1,9 @@
+import styles from '../styles/Resume.module.css'
+
 export default function Resume() {
     return(
-        <div>
-            <h1>Resume:</h1>
-            <div className='resume'>
+        <div className={styles.container}>
+            <div className={styles.resume}>
             <img 
             src="/resume.png" 
             alt="resume"
