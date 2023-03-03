@@ -1,23 +1,37 @@
 /* here in this file we do 'pure' selectors
 ie element selectors and media quieries
 */
+h1 {
+  color: white;
+} 
+
 body {
   background-image: url(https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cG9ydGZvbGlvJTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&w=1000&q=80);
 }
 
-h1 {
+nav {
+  margin: 10px auto 80px;
+  padding: 10px 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  border-bottom: 1px solid #ddd;
   color: white;
 }
-
- .navBar {
-  text-align: center;
+nav a {
+  margin-left: 12px;
   color: white;
+  border: 3px solid white;
   text-decoration: none;
-  display: flex;
-  justify-content: space-around;
   padding: 5px;
 
 }
+nav .logo {
+  margin-right: auto;
+}
+
+
+
 
 /* Link {
   padding: 5px;

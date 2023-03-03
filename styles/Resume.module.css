@@ -1,11 +1,11 @@
-.resume {
+h1 {
+    text-align: center;
+    color: pink;
+}
+/* .resume {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 100%;
 
-}
-h1 {
-    text-align: center;
-    color: white;
-}
+} */

@@ -16,6 +16,8 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
        <h1>Welcome to my portfolio!</h1>
+        <h2>Cailin Shaffer</h2>
+        <h3>Fullstack Developer</h3>
       </main>
     </>
   )
