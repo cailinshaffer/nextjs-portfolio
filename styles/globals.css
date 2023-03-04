@@ -1,7 +1,16 @@
 /* here in this file we do 'pure' selectors
 ie element selectors and media quieries
 */
+body {
+  color: white;
+}
 h1 {
+  color: white;
+} 
+h4 {
+  color: white;
+} 
+h3 {
   color: white;
 } 
 
